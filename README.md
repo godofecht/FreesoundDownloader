@@ -22,7 +22,7 @@ include(FetchContent)
 # Fetch FreesoundDownloader library
 FetchContent_Declare(
     FreesoundDownloader
-    GIT_REPOSITORY https://github.com/YourUsername/FreesoundDownloader.git
+    GIT_REPOSITORY https://github.com/godofecht/FreesoundDownloader.git
     GIT_TAG main  # Or specify a specific commit/tag
 )
 
