@@ -1,0 +1,27 @@
+# Environment files
+.env
+.env.local
+*.env
+!.env.local.example
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.a
+*.o
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
